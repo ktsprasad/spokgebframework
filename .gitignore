@@ -1,0 +1,12 @@
+# folder logs
+logs/
+
+# txt-files 
+docs/*.txt
+
+# .class files
+*.class
+
+# Reports folder
+*.html
+*.png
