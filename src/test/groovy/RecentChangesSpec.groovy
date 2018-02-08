@@ -15,6 +15,7 @@ class RecentChangesSpec extends GebReportingSpec{
 
      then: ""
      //resultRows.size() == 50
+        // verify this git
 
     }
 }
