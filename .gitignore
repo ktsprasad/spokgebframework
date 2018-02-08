@@ -1,12 +1,11 @@
-# folder logs
-logs/
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
 
-# txt-files 
-docs/*.txt
-
-# .class files
-*.class
-
-# Reports folder
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
 *.html
 *.png
